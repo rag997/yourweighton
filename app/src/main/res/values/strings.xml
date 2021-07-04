@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">your weight on</string>
+    <string name="title">إحسب وزنك على كوكب المريخ :</string>
+    <string name="btn">إحسب الوزن</string>
+    <string name="hint">أدخل وزنك</string>
+    <string name="textview">TextView</string>
+
+</resources>
